@@ -13,4 +13,4 @@ Figma
 
 Link to the project on Figma https://www.figma.com/file/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=0-1&t=jve6PzYX9EfxQb4S-0
 
-https://briakgodfrey.github.io/se_project_aroundtheus-2/
+https://briakgodfrey.github.io/se_project_aroundtheus-2
